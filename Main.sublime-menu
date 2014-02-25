@@ -1,0 +1,10 @@
+[{
+  "caption": "Find",
+  "mnemonic": "f",
+  "id": "find",
+  "children": [{
+    "id": "shifti",
+    "caption": "Shift+i",
+    "command": "shifti"
+  }]
+}]
